@@ -298,18 +298,18 @@ section {
     align-items: center;
 }
 .sobre .container ul strong {
-    margin-right: 15px;
+    margin-right: 5px;
 }
 .sobre .container ul i {
     font-size: 22px;
-    margin-right: 10px;
+    margin-right: 8px;
     color: var(--texto-titulo);
     line-height: 0;
 }
 .sobre img {
     display: flex;
     width: 370px;
-    margin-right: 20px;
+    margin-right: 10px;
   
 }
 /* CONQUISTAS */
@@ -339,9 +339,9 @@ section {
 
 .conquistas .count-box p {
     padding: 15px 0 0 0;
-    margin: 0 0 0 60px;
+    margin: 0 0 0 20px;
     font-family: 'Helvetica', 'serif';
-    font-size: 16px;
+    font-size: 14px;
 }
 .conquistas .count-box i:hover {
     color: var(--detalhes-icones);
@@ -392,7 +392,7 @@ section {
     font-weight: 700;
     margin-top: 20px;
     margin-bottom: 20px;
-    color: var(--detalhes-escuro);
+    color: var(--detalhes-icones);
 }
 
 .resumo .resumo-item {
