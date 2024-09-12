@@ -620,12 +620,17 @@ section {
 .depoimentos .depoimento-item p {
     font-style: italic;
     margin: 0 15px 20px 15px;
-    padding: 20px;
     background: var(--fundo-menu-lateral);
     position: relative;
     border-radius: 15px;
     box-shadow: 0 2px 15px rgba(156, 173, 190, 0.3);
+    min-height: 170px;
+    display: flex;
+    align-items: center; /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+    text-align: center; /* Alinha o texto ao centro */
 }
+
 .depoimentos .depoimento-item p::after {
     content: "";
     position: absolute;
