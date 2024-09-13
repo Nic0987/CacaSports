@@ -514,7 +514,7 @@ section {
     width: 50%;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-    background-color: var(--fundo-claro);
+    background-color: var(--texto-titulo);
 
 }
 .portfolio .portfolio-wrap .portfolio-links a+a{
@@ -623,7 +623,7 @@ section {
     background: var(--fundo-menu-lateral);
     position: relative;
     border-radius: 15px;
-    box-shadow: 0 2px 15px rgba(156, 173, 190, 0.3);
+    box-shadow: 0px 1px 12px rgba(255, 175, 255, 0.3);
     min-height: 170px;
     display: flex;
     align-items: center; /* Centraliza o texto verticalmente */
@@ -664,7 +664,7 @@ section {
     padding: 30px;
     background: var(--fundo-menu-lateral);
     width: 100%;
-    box-shadow: 0 0 24px 0 rgba(240, 231, 231, 0.2);
+    box-shadow: 0px 1px 12px rgba(255, 175, 255, 0.3);
 }
 
 .contato .info i {
@@ -698,7 +698,7 @@ section {
     width: 100%;
     padding: 30px;
     background: var(--fundo-menu-lateral);
-    box-shadow: 0 0 24px 0 rgba(240, 231, 231, 0.2);
+    box-shadow: 0px 1px 12px rgba(255, 175, 255, 0.3);
 
 }
 .contato .email-form .form-group {
